@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I'm Rushil Shrestha 👋<br>Cybersecurity & IT Professional | Network Security | SOC | IT Support<br><br>I'm a Cybersecurity & IT professional with a background in Network Security Architecture, Information Security Management, IT troubleshooting, and security operations.<br><br>I enjoy understanding how systems and networks work, identifying where they can fail, and using that knowledge to investigate and solve technical and security problems.<br><br>🎯 Currently focused on building toward SOC Analyst, Cybersecurity Analyst, and IT Support roles through hands-on labs, networking practice, security investigations, and real-world projects.<br><br>🛡️ What I Work With<br>🔐 Cybersecurity<br>Security Operations & SOC fundamentals<br>Security monitoring & alert analysis<br>Log analysis<br>Incident detection & investigation<br>Network security<br>Threat analysis<br>Security frameworks: NIST CSF & ISO 27001<br>🌐 Networking<br>TCP/IP & OSI Model<br>IPv4 / IPv6 fundamentals<br>DNS & DHCP<br>VLANs & network segmentation<br>Routing & switching fundamentals<br>Firewalls<br>Packet analysis with Wireshark<br>🖥️ IT & Infrastructure<br>Windows troubleshooting<br>Active Directory<br>Microsoft Entra ID fundamentals<br>User & access management fundamentals<br>ServiceNow<br>Virtualization<br>Linux administration fundamentals<br>🧰 Security & Technical Tools<br><br>Wireshark Splunk Security Onion Kali Linux Burp Suite pfSense Active Directory Entra ID ServiceNow VirtualBox VMware<br><br>🧪 Hands-On Security Labs<br><br>I believe cybersecurity is best learned by doing, not just watching.<br><br>My hands-on learning includes:<br><br>🔎 Investigating security alerts and suspicious activity<br>📊 Analyzing logs and network traffic<br>🌐 Capturing and analyzing packets with Wireshark<br>🛡️ Building segmented networks with VLANs<br>🔥 Configuring firewall rules and network controls<br>🖥️ Working with Active Directory environments<br>🐧 Using Linux/Kali for security experimentation<br>🚨 Practicing SOC workflows through security labs<br>🧩 Investigating security scenarios through TryHackMe & LetsDefend
 
-<!--
-**Grimreaper9595/Grimreaper9595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rushil_shrestha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rushil-shrestha-598a71103) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrestharushil762@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Grimreaper9595&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Grimreaper9595&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Grimreaper9595&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Grimreaper9595&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
