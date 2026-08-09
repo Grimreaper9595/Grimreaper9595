@@ -156,7 +156,8 @@ Packet analysis • Protocol identification • Network troubleshooting • Traf
 
 **Ontario College Graduate Certificate — Information Security Management**
 
-**Bachelor of Computer Applications — Acharya Institute of Graduate Studies**
+### Acharya Institute of Graduate Studies — Bangalore, India
+**Bachelors Degree — Bachelors in Computer Applications**
 
 ---
 
