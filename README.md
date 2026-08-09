@@ -156,9 +156,7 @@ Packet analysis • Protocol identification • Network troubleshooting • Traf
 
 **Ontario College Graduate Certificate — Information Security Management**
 
-### Bachelor of Computer Applications
-
-**Acharya Institute of Graduate Studies**
+### Bachelor of Computer Applications — Acharya Institute of Graduate Studies**
 
 ---
 
@@ -171,6 +169,7 @@ Packet analysis • Protocol identification • Network troubleshooting • Traf
 ## 📚 Courses & Training
 
 * 🔎 LetsDefend — SOC Analyst Path
+* 🛡️ Qualys — Vulnerability Management Foundation
 * 🌐 TryHackMe — Network Fundamentals
 * 🏢 Hack The Box — Active Directory Fundamentals
 * 📊 Splunk fundamentals training
