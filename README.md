@@ -1,18 +1,231 @@
-# 💫 About Me:
-<h1>Hi, I'm Rushil Shrestha 👋</h1><br>Cybersecurity & IT Professional | Network Security | SOC | IT Support<br><br>I'm a Cybersecurity & IT professional with a background in Network Security Architecture, Information Security Management, IT troubleshooting, and security operations.<br><br>I enjoy understanding how systems and networks work, identifying where they can fail, and using that knowledge to investigate and solve technical and security problems.<br><br>🎯 Currently focused on building toward SOC Analyst, Cybersecurity Analyst, and IT Support roles through hands-on labs, networking practice, security investigations, and real-world projects.<br><br>🛡️ What I Work With<br>🔐 Cybersecurity<br>Security Operations & SOC fundamentals<br>Security monitoring & alert analysis<br>Log analysis<br>Incident detection & investigation<br>Network security<br>Threat analysis<br>Security frameworks: NIST CSF & ISO 27001<br>🌐 Networking<br>TCP/IP & OSI Model<br>IPv4 / IPv6 fundamentals<br>DNS & DHCP<br>VLANs & network segmentation<br>Routing & switching fundamentals<br>Firewalls<br>Packet analysis with Wireshark<br>🖥️ IT & Infrastructure<br>Windows troubleshooting<br>Active Directory<br>Microsoft Entra ID fundamentals<br>User & access management fundamentals<br>ServiceNow<br>Virtualization<br>Linux administration fundamentals<br>🧰 Security & Technical Tools<br><br>Wireshark Splunk Security Onion Kali Linux Burp Suite pfSense Active Directory Entra ID ServiceNow VirtualBox VMware<br><br>🧪 Hands-On Security Labs<br><br>I believe cybersecurity is best learned by doing, not just watching.<br><br>My hands-on learning includes:<br><br>🔎 Investigating security alerts and suspicious activity<br>📊 Analyzing logs and network traffic<br>🌐 Capturing and analyzing packets with Wireshark<br>🛡️ Building segmented networks with VLANs<br>🔥 Configuring firewall rules and network controls<br>🖥️ Working with Active Directory environments<br>🐧 Using Linux/Kali for security experimentation<br>🚨 Practicing SOC workflows through security labs<br>🧩 Investigating security scenarios through TryHackMe & LetsDefend
+<h1 align="center">Hi, I'm Rushil Shrestha 👋</h1>
 
+<h3 align="center">
+IT & Cybersecurity Professional | Network Security | SOC | IT Support
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rushil_shrestha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rushil-shrestha-598a71103) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrestharushil762@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Grimreaper9595&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Grimreaper9595&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Grimreaper9595&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://github.com/Grimreaper9595">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/rushil-shrestha-598a71103/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Grimreaper9595&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm an **IT and cybersecurity-focused professional** with a background in **Network Security Architecture, Information Security Management, IT troubleshooting, and security operations**.
+
+I enjoy understanding how systems and networks work, identifying where they can fail, and using that knowledge to troubleshoot technical problems and investigate security events.
+
+🎯 I'm currently focused on building toward **SOC Analyst, Cybersecurity Analyst, and IT Support** roles through hands-on labs, networking practice, security investigations, and technical projects.
+
+---
+
+## 🛡️ Technical Skills
+
+### 🔐 Cybersecurity
+
+* Security Operations & SOC fundamentals
+* Security monitoring & alert analysis
+* Log analysis
+* Incident detection & investigation
+* Network security fundamentals
+* Threat analysis
+* NIST Cybersecurity Framework
+* ISO/IEC 27001 fundamentals
+
+### 🌐 Networking
+
+* TCP/IP & OSI Model
+* IPv4 / IPv6 fundamentals
+* DNS & DHCP
+* VLANs & network segmentation
+* Routing & switching fundamentals
+* Firewall configuration & security rules
+* Packet capture & analysis with Wireshark
+
+### 🖥️ IT & Infrastructure
+
+* Windows troubleshooting
+* Active Directory fundamentals
+* Microsoft Entra ID fundamentals
+* User & access management fundamentals
+* ServiceNow
+* Virtualization
+* Linux fundamentals
+
+---
+
+## 🧰 Tools & Technologies
+
+### Security & Network Analysis
+
+`Wireshark` `Splunk` `Security Onion` `Kali Linux` `Burp Suite`
+
+### Networking & Infrastructure
+
+`pfSense` `UniFi` `TP-Link Managed Switches` `VirtualBox` `VMware`
+
+### Identity & IT
+
+`Active Directory` `Microsoft Entra ID` `ServiceNow`
+
+### Security & Learning Platforms
+
+`TryHackMe` `LetsDefend` `Hack The Box`
+
+---
+
+## 🧪 Practical Experience & Labs
+
+I believe cybersecurity is best learned through **hands-on practice, investigation, and documentation**.
+
+My practical experience and lab work **include**:
+
+* 🔎 Investigating security alerts and suspicious activity in security labs
+* 📊 Analyzing logs and network traffic
+* 🌐 Capturing and analyzing packets with Wireshark
+* 🛡️ Designing segmented networks using VLANs
+* 🔥 Configuring firewall rules and network controls
+* 🖥️ Practicing Active Directory concepts in lab environments
+* 🐧 Working with Linux and Kali Linux for security exercises
+* 🚨 Practicing SOC workflows through LetsDefend
+* 🧩 Completing networking and cybersecurity labs through TryHackMe and Hack The Box
+
+---
+
+## 🚀 Portfolio Projects
+
+### 🏠 Home Network Security Lab
+
+A segmented home-lab environment used to practice network security architecture and defensive networking concepts.
+
+**Technologies**
+
+`pfSense` `TP-Link Managed Switch` `UniFi AP` `VLANs` `Firewall Rules`
+
+**Focus**
+
+Network segmentation • Access control • Firewalling • Network management • Security architecture
+
+**Repository:** Coming soon
+
+---
+
+### 🔎 SOC Investigation Lab
+
+Hands-on security investigations focused on developing practical SOC skills.
+
+**Technologies**
+
+`Splunk` `Wireshark` `Security Onion` `Linux`
+
+**Focus**
+
+Log analysis • Alert investigation • Network traffic analysis • Threat detection • Incident investigation
+
+**Repository:** Coming soon
+
+---
+
+### 🌐 Network Traffic Analysis
+
+Practical exercises focused on understanding network traffic and protocols at the packet level.
+
+**Technologies**
+
+`Wireshark` `TCP/IP` `DNS` `DHCP` `IPv4/IPv6`
+
+**Focus**
+
+Packet analysis • Protocol identification • Network troubleshooting • Traffic investigation
+
+**Repository:** Coming soon
+
+---
+
+## 🎓 Education
+
+### Fanshawe College — London, Ontario
+
+**Ontario College Graduate Certificate — Network and Security Architecture**
+
+**Ontario College Graduate Certificate — Information Security Management**
+
+### Bachelor of Computer Applications
+
+**Acharya Institute of Graduate Studies**
+
+---
+
+## 📜 Certifications
+
+* 🛡️ Google Cybersecurity Professional Certificate
+
+---
+
+## 📚 Courses & Training
+
+* 🔎 LetsDefend — SOC Analyst Path
+* 🌐 TryHackMe — Network Fundamentals
+* 🏢 Hack The Box — Active Directory Fundamentals
+* 📊 Splunk fundamentals training
+* 🔐 Practical cybersecurity and networking labs
+
+---
+
+## 📈 Currently Learning
+
+I'm continuously strengthening the technical fundamentals that matter most in real-world IT and cybersecurity roles.
+
+| Area              | Current Focus                                  |
+| ----------------- | ---------------------------------------------- |
+| 🌐 Networking     | CCNA-level networking & troubleshooting        |
+| 🔎 SOC            | Security monitoring, detection & investigation |
+| 📊 SIEM           | Splunk & security log analysis                 |
+| 🏢 Identity       | Active Directory & Microsoft Entra ID          |
+| ☁️ Cloud Security | Azure / Entra security fundamentals            |
+| 🐍 Automation     | Python for cybersecurity                       |
+| 🧪 Labs           | Realistic security projects and investigations |
+
+---
+
+## 🧠 My Approach
+
+> **Understand the fundamentals → Build it → Test it → Investigate it → Document it**
+
+I don't want to simply memorize security tools.
+
+I want to understand **why something works, how it can fail, how it can be abused, and how a defender can detect and respond to it.**
+
+---
+
+## 📂 What You'll Find Here
+
+This GitHub is a record of my practical development in **IT, networking, and cybersecurity**.
+
+You'll find:
+
+* 🔬 Cybersecurity investigations
+* 🌐 Networking projects
+* 🛡️ Defensive security labs
+* 📊 SIEM exercises
+* 🖥️ Active Directory labs
+* 🐧 Linux projects
+* 🧪 Security challenges
+* 📝 Technical documentation
+* ⚙️ Automation experiments
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with **cybersecurity professionals, IT professionals, recruiters, and fellow learners**.
+
+<p align="center">
+  <i>Build. Test. Investigate. Secure.</i>
+</p>
